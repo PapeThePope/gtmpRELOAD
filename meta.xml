@@ -1,0 +1,5 @@
+<meta>
+    <info name="Reloader" author="Tobias Pape" type="script" async="true" />
+    
+    <script src="reload.cs" type="server" lang="csharp" />
+</meta>
