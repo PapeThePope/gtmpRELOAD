@@ -1,7 +1,7 @@
 # gtmpRELOAD
 Reloads or Start/Stops a specific Resource
 
-Commdands:
+Commands:
 
 /reload [RESOURCENAME] 
 -> Reloading Resource 
